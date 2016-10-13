@@ -1,0 +1,480 @@
+[
+    [
+        [
+            50.7672852554, 
+            6.08214644202
+        ], 
+        "Theater Aachen", 
+        "<h6><a href=\"http://theateraachen.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Theater Aachen</a>&nbsp;</h6>Premiere am 12.11.2015<br>27 Vorstellungen - <span style=\"color:#77b300;\">27x Freispruch</span><br><br>Gesamtstimmen<br>2384 Freispruch - 1409 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            48.7657698451, 
+            8.24374467317
+        ], 
+        "Theater Baden-Baden", 
+        "<h6><a href=\"http://www.theater.baden-baden.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Theater Baden-Baden</a>&nbsp;</h6>Premiere am 16.10.2015<br>19 Vorstellungen - <span style=\"color:#77b300;\">19x Freispruch</span><br><br>Gesamtstimmen<br>2086 Freispruch - 1113 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            52.5187456486, 
+            13.3901933841
+        ], 
+        "Deutsches Theater, Berlin", 
+        "<h6><a href=\"https://www.deutschestheater.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#ffcc11;\">Deutsches Theater, Berlin</a>&nbsp;</h6>Premiere am 03.10.2015<br>24 Vorstellungen - <span style=\"color:#ffcc11;\">19x Freispruch</span><br><br>Gesamtstimmen<br>6208 Freispruch - 5157 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#ffcc11;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "yellow"
+    ], 
+    [
+        [
+            52.0245034482, 
+            8.53456904374
+        ], 
+        "Theater Bielefeld", 
+        "<h6><a href=\"http://www.theater-bielefeld.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Theater Bielefeld</a>&nbsp;</h6>Premiere am 30.01.2016<br>22 Vorstellungen - <span style=\"color:#77b300;\">22x Freispruch</span><br><br>Gesamtstimmen<br>8313 Freispruch - 4308 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            52.2660591229, 
+            10.5228356496
+        ], 
+        "Staatstheater Braunschweig", 
+        "<h6><a href=\"http://staatstheater-braunschweig.de/startseite/\" target=\"_blank\" class=\"llpopup\" style=\"color:#ffcc11;\">Staatstheater Braunschweig</a>&nbsp;</h6>Premiere am 22.01.2016<br>14 Vorstellungen - <span style=\"color:#ffcc11;\">11x Freispruch</span><br><br>Gesamtstimmen<br>1910 Freispruch - 1638 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#ffcc11;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "yellow"
+    ], 
+    [
+        [
+            52.6171900307, 
+            10.080726684
+        ], 
+        "Schlosstheater Celle", 
+        "<h6><a href=\"http://schlosstheater-celle.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Schlosstheater Celle</a>&nbsp;</h6>Premiere am 06.11.2015<br>20 Vorstellungen - <span style=\"color:#77b300;\">20x Freispruch</span><br><br>Gesamtstimmen<br>2653 Freispruch - 1234 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            51.0600336463, 
+            13.7210676149
+        ], 
+        "Staatsschauspiel Dresden", 
+        "<h6><a href=\"http://www.staatsschauspiel-dresden.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#ffcc11;\">Staatsschauspiel Dresden</a>&nbsp;</h6>Premiere am 28.01.2016<br>16 Vorstellungen - <span style=\"color:#ffcc11;\">10x Freispruch</span><br><br>Gesamtstimmen<br>5188 Freispruch - 4911 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#ffcc11;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "yellow"
+    ], 
+    [
+        [
+            51.2302634707, 
+            6.79140088346
+        ], 
+        "Düsseldorfer Schauspielhaus", 
+        "<h6><a href=\"http://www.duesseldorfer-schauspielhaus.de/de/index.php\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Düsseldorfer Schauspielhaus</a>&nbsp;</h6>Premiere am 18.10.2015<br>48 Vorstellungen - <span style=\"color:#77b300;\">48x Freispruch</span><br><br>Gesamtstimmen<br>12610 Freispruch - 8968 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            50.1119739847, 
+            8.68388595192
+        ], 
+        "Schauspiel Frankfurt", 
+        "<h6><a href=\"https://www.schauspielfrankfurt.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Schauspiel Frankfurt</a>&nbsp;</h6>Premiere am 03.10.2015<br>22 Vorstellungen - <span style=\"color:#77b300;\">22x Freispruch</span><br><br>Gesamtstimmen<br>5970 Freispruch - 4670 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            47.995937421, 
+            7.85079937518
+        ], 
+        "Wallgraben Theater, Freiburg", 
+        "<h6><a href=\"http://www.wallgraben-theater.com/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Wallgraben Theater, Freiburg</a>&nbsp;</h6>Premiere am 14.10.2016<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            51.5350415221, 
+            9.93245468085
+        ], 
+        "Deutsches Theater, Göttingen", 
+        "<h6><a href=\"http://www.dt-goettingen.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Deutsches Theater, Göttingen</a>&nbsp;</h6>Premiere am 17.10.2015<br>20 Vorstellungen - <span style=\"color:#77b300;\">20x Freispruch</span><br><br>Gesamtstimmen<br>2930 Freispruch - 1579 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            54.089398657, 
+            13.3789308381
+        ], 
+        "Theater Vorpommern, Greifswald", 
+        "<h6><a href=\"http://www.theater-vorpommern.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Theater Vorpommern, Greifswald</a>&nbsp;</h6>Premiere am 21.05.2016<br>6 Vorstellungen - <span style=\"color:#77b300;\">6x Freispruch</span><br><br>Gesamtstimmen<br>1007 Freispruch - 435 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            54.2818868572, 
+            13.1147692454
+        ], 
+        "Theater Vorpommern, Stralsund", 
+        "<h6><a href=\"http://www.theater-vorpommern.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Theater Vorpommern, Stralsund</a>&nbsp;</h6>Premiere am 29.04.2016<br>3 Vorstellungen - <span style=\"color:#77b300;\">3x Freispruch</span><br><br>Gesamtstimmen<br>360 Freispruch - 239 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            53.5608014977, 
+            10.0117770072
+        ], 
+        "Deutsches Schauspielhaus, Hamburg", 
+        "<h6><a href=\"http://www.schauspielhaus.de/de_DE/home\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Deutsches Schauspielhaus, Hamburg</a>&nbsp;</h6>Premiere am 02.04.2016<br>6 Vorstellungen - <span style=\"color:#77b300;\">6x Freispruch</span><br><br>Gesamtstimmen<br>2552 Freispruch - 1766 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            49.4403932171, 
+            11.0699072434
+        ], 
+        "Staatstheater Nürnberg", 
+        "<h6><a href=\"https://www.staatstheater-nuernberg.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#ffcc11;\">Staatstheater Nürnberg</a>&nbsp;</h6>Premiere am 14.02.2016<br>18 Vorstellungen - <span style=\"color:#ffcc11;\">16x Freispruch</span><br><br>Gesamtstimmen<br>1869 Freispruch - 1507 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#ffcc11;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "yellow"
+    ], 
+    [
+        [
+            53.1394888932, 
+            8.20441079622
+        ], 
+        "Oldenburgisches Staatstheater", 
+        "<h6><a href=\"http://staatstheater.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Oldenburgisches Staatstheater</a>&nbsp;</h6>Premiere am 20.02.2016<br>20 Vorstellungen - <span style=\"color:#77b300;\">20x Freispruch</span><br><br>Gesamtstimmen<br>5200 Freispruch - 3098 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            48.7698345833, 
+            9.16467740417
+        ], 
+        "Schauspielbühnen in Stuttgart", 
+        "<h6><a href=\"http://www.schauspielhaus-komoedie.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Schauspielbühnen in Stuttgart</a>&nbsp;</h6>Premiere am 05.02.2016<br>30 Vorstellungen - <span style=\"color:#77b300;\">30x Freispruch</span><br><br>Gesamtstimmen<br>7441 Freispruch - 4266 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            51.3171621795, 
+            9.49079659015
+        ], 
+        "Staatstheater Kassel", 
+        "<h6><a href=\"http://www.staatstheater-kassel.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Staatstheater Kassel</a>&nbsp;</h6>Premiere am 16.04.2016<br>5 Vorstellungen - <span style=\"color:#77b300;\">5x Freispruch</span><br><br>Gesamtstimmen<br>1384 Freispruch - 838 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            50.0004311011, 
+            8.27394747987
+        ], 
+        "Mainzer Kammerspiele", 
+        "<h6><a href=\"http://www.mainzer-kammerspiele.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#ffcc11;\">Mainzer Kammerspiele</a>&nbsp;</h6>Premiere am 31.03.2016<br>11 Vorstellungen - <span style=\"color:#ffcc11;\">10x Freispruch</span><br><br>Gesamtstimmen<br>1277 Freispruch - 875 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#ffcc11;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "yellow"
+    ], 
+    [
+        [
+            47.215452, 
+            7.527601
+        ], 
+        "Stadttheater Biel Solothurn", 
+        "<h6><a href=\"https://www.tobs.ch/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Stadttheater Biel Solothurn</a>&nbsp;</h6>Premiere am 11.03.2017<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            47.1492305, 
+            7.2611065
+        ], 
+        "Stadttheater Biel Solothurn", 
+        "<h6><a href=\"https://www.tobs.ch/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Stadttheater Biel Solothurn</a>&nbsp;</h6>Premiere am 07.04.2017<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            47.2666667, 
+            11.389
+        ], 
+        "Innsbrucker Kellertheater", 
+        "<h6><a href=\"https://www.kellertheater.at/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Innsbrucker Kellertheater</a>&nbsp;</h6>Premiere am 23.09.2017<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            46.940072, 
+            7.399628
+        ], 
+        "Theater an der Effingerstraße", 
+        "<h6><a href=\"http://www.dastheater-effingerstr.ch/index.php\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Theater an der Effingerstraße</a>&nbsp;</h6>Premiere am 20.08.2016<br>25 Vorstellungen - <span style=\"color:#77b300;\">25x Freispruch</span><br><br>Gesamtstimmen<br>2424 Freispruch - 882 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            52.4054762016, 
+            13.0705258654
+        ], 
+        "Hans Otto Theater", 
+        "<h6><a href=\"http://www.hansottotheater.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Hans Otto Theater</a>&nbsp;</h6>Premiere am 14.10.2016<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            48.2080563114, 
+            11.6166424501
+        ], 
+        "Metropoltheater München", 
+        "<h6><a href=\"http://www.metropoltheater.com/\" target=\"_blank\" class=\"llpopup\" style=\"color:#ffcc11;\">Metropoltheater München</a>&nbsp;</h6>Premiere am 19.02.2016<br>40 Vorstellungen - <span style=\"color:#ffcc11;\">36x Freispruch</span><br><br>Gesamtstimmen<br>4281 Freispruch - 3399 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#ffcc11;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "yellow"
+    ], 
+    [
+        [
+            49.1406908406, 
+            9.21565027599
+        ], 
+        "Theater Heilbronn", 
+        "<h6><a href=\"http://www.theater-heilbronn.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Theater Heilbronn</a>&nbsp;</h6>Premiere am 08.10.2016<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            49.0007141097, 
+            8.41715198136
+        ], 
+        "Badisches Staatstheater Karlsruhe", 
+        "<h6><a href=\"http://www.staatstheater.karlsruhe.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#e63c00;\">Badisches Staatstheater Karlsruhe</a>&nbsp;</h6>Premiere am 29.09.2016<br>2 Vorstellungen - <span style=\"color:#e63c00;\">1x Schuldig</span><br><br>Gesamtstimmen<br>299 Freispruch - 316 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#e63c00;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "red"
+    ], 
+    [
+        [
+            47.8, 
+            13.0333333
+        ], 
+        "Salzburger Landestheater", 
+        "<h6><a href=\"http://www.salzburger-landestheater.at/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Salzburger Landestheater</a>&nbsp;</h6>Premiere am 30.04.2017<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            48.3, 
+            14.3
+        ], 
+        "Theater@work", 
+        "<h6><a href=\"http://www.theateratwork.at/\" target=\"_blank\" class=\"llpopup\" style=\"color:#ffcc11;\">Theater@work</a>&nbsp;</h6>Premiere am 10.05.2016<br>18 Vorstellungen - <span style=\"color:#ffcc11;\">17x Freispruch</span><br><br>Gesamtstimmen<br>1582 Freispruch - 1049 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#ffcc11;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "yellow"
+    ], 
+    [
+        [
+            50.9225551675, 
+            6.95323649211
+        ], 
+        "Theater der Keller", 
+        "<h6><a href=\"http://www.theater-der-keller.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Theater der Keller</a>&nbsp;</h6>Premiere am 04.11.2016<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            51.2093120466, 
+            7.13566343373
+        ], 
+        "TiC-Theater in Cronenberg, Wuppertal", 
+        "<h6><a href=\"https://www.tic-theater.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">TiC-Theater in Cronenberg, Wuppertal</a>&nbsp;</h6>Premiere am 18.11.2016<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            49.2929975494, 
+            10.563634102
+        ], 
+        "Theater Ansbach", 
+        "<h6><a href=\"http://www.theater-ansbach.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Theater Ansbach</a>&nbsp;</h6>Premiere am 07.04.2017<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            53.074946769, 
+            8.82421052704
+        ], 
+        "Bremer Kriminaltheater", 
+        "<h6><a href=\"http://www.bremer-kriminal-theater.de/Aktuell/\" target=\"_blank\" class=\"llpopup\" style=\"color:#ffcc11;\">Bremer Kriminaltheater</a>&nbsp;</h6>Premiere am 19.05.2016<br>12 Vorstellungen - <span style=\"color:#ffcc11;\">10x Freispruch</span><br><br>Gesamtstimmen<br>681 Freispruch - 598 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#ffcc11;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "yellow"
+    ], 
+    [
+        [
+            46.2411569, 
+            14.3513415
+        ], 
+        "Prešeren Theatre Kranj", 
+        "<h6><a href=\"http://www.culture.si/en/Pre%C5%A1eren_Theatre_Kranj\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Prešeren Theatre Kranj</a>&nbsp;</h6><br>genauer Premierentermin wird noch bekannt gegeben<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            55.6794587, 
+            12.5862154
+        ], 
+        "Det Kongelige Teater, Copenhagen", 
+        "<h6><a href=\"https://kglteater.dk/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Det Kongelige Teater, Copenhagen</a>&nbsp;</h6>Premiere am 21.04.2017<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            48.7632084572, 
+            11.3416386279
+        ], 
+        "Stadttheater Ingolstadt", 
+        "<h6><a href=\"http://www.theater.ingolstadt.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Stadttheater Ingolstadt</a>&nbsp;</h6>Premiere am 19.05.2017<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            52.2793239516, 
+            8.05289024387
+        ], 
+        "Theater Osnabrück", 
+        "<h6><a href=\"http://www.theater-osnabrueck.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Theater Osnabrück</a>&nbsp;</h6>Premiere am 14.05.2017<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            10.4779376, 
+            -66.8568812
+        ], 
+        "Teatro Trasnocho, Caracas", 
+        "<h6><a href=\"http://www.trasnochocultural.com/cartelera_teatro.php\" target=\"_blank\" class=\"llpopup\" style=\"color:#ffcc11;\">Teatro Trasnocho, Caracas</a>&nbsp;</h6>Premiere am 07.07.2016<br>18 Vorstellungen - <span style=\"color:#ffcc11;\">17x Freispruch</span><br><br>Gesamtstimmen<br>3321 Freispruch - 1968 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#ffcc11;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "yellow"
+    ], 
+    [
+        [
+            32.076847, 
+            34.7847
+        ], 
+        "Cameri Theater, Tel Aviv-Yafo", 
+        "<h6><a href=\"http://www.cameri.co.il/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Cameri Theater, Tel Aviv-Yafo</a>&nbsp;</h6><br>genauer Premierentermin wird noch bekannt gegeben<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            49.7965442961, 
+            9.93274931165
+        ], 
+        "Mainfranken Theater Würzburg", 
+        "<h6><a href=\"https://www.theaterwuerzburg.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Mainfranken Theater Würzburg</a>&nbsp;</h6>Premiere am 20.11.2016<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            49.4474490485, 
+            7.81639464687
+        ], 
+        "Pfalztheater Kaiserslautern", 
+        "<h6><a href=\"http://www.pfalztheater.de/cms/index.php\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Pfalztheater Kaiserslautern</a>&nbsp;</h6>Premiere am 08.10.2016<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            53.5667627577, 
+            8.55490896452
+        ], 
+        "Stadttheater Bremerhaven", 
+        "<h6><a href=\"https://www.stadttheaterbremerhaven.de/startseite/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Stadttheater Bremerhaven</a>&nbsp;</h6>Premiere am 11.02.2017<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            47.6649170721, 
+            9.1731452747
+        ], 
+        "Theater Konstanz", 
+        "<h6><a href=\"http://www.theaterkonstanz.de/tkn/index.html\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Theater Konstanz</a>&nbsp;</h6>Premiere am 06.05.2017<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            52.6140403842, 
+            11.8759266473
+        ], 
+        "Theater der Altmark, Stendal", 
+        "<h6><a href=\"http://www.tda-stendal.com/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Theater der Altmark, Stendal</a>&nbsp;</h6>Premiere am 10.12.2016<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            47.493621, 
+            19.05441
+        ], 
+        "Katona Jozsef Theater, Budapest", 
+        "<h6><a href=\"http://katonajozsefszinhaz.hu/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Katona Jozsef Theater, Budapest</a>&nbsp;</h6>Premiere am 08.10.2016<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            50.4985390641, 
+            12.1160258049
+        ], 
+        "Theater Plauen-Zwickau", 
+        "<h6><a href=\"http://www.theater-plauen-zwickau.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Theater Plauen-Zwickau</a>&nbsp;</h6>Premiere am 08.10.2016<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            47.051418, 
+            8.371049
+        ], 
+        "Werkstatt für Theater, Meggen", 
+        "<h6><a href=\"http://www.werkstatt-theater.ch/aktuellindex.php\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Werkstatt für Theater, Meggen</a>&nbsp;</h6>Premiere am 15.03.2017<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            50.7214942156, 
+            7.12295917699
+        ], 
+        "Contra-Kreis-Theater & Junges Theater Bonn", 
+        "<h6><a href=\"http://www.contra-kreis-theater.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#77b300;\">Contra-Kreis-Theater & Junges Theater Bonn</a>&nbsp;</h6>Premiere am 15.09.2016<br>15 Vorstellungen - <span style=\"color:#77b300;\">15x Freispruch</span><br><br>Gesamtstimmen<br>1925 Freispruch - 967 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#77b300;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "green"
+    ], 
+    [
+        [
+            51.9536975681, 
+            7.66989253272
+        ], 
+        "Wolfgang Borchert Theater, Münster", 
+        "<h6><a href=\"http://www.wolfgang-borchert-theater.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#e63c00;\">Wolfgang Borchert Theater, Münster</a>&nbsp;</h6>Premiere am 10.09.2016<br>3 Vorstellungen - <span style=\"color:#e63c00;\">2x Schuldig</span><br><br>Gesamtstimmen<br>186 Freispruch - 189 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#e63c00;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "red"
+    ], 
+    [
+        [
+            48.209, 
+            16.37
+        ], 
+        "Theater in der Josefstadt", 
+        "<h6><a href=\"https://www.josefstadt.org/start.html\" target=\"_blank\" class=\"llpopup\" style=\"color:#fff;\">Theater in der Josefstadt</a>&nbsp;</h6><br>genauer Premierentermin wird noch bekannt gegeben<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#fff;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "white"
+    ], 
+    [
+        [
+            51.185667039, 
+            14.4365868353
+        ], 
+        "Deutsch-Sorbisches Volkstheater Bautzen", 
+        "<h6><a href=\"http://www.theater-bautzen.de/\" target=\"_blank\" class=\"llpopup\" style=\"color:#ffcc11;\">Deutsch-Sorbisches Volkstheater Bautzen</a>&nbsp;</h6>Premiere am 22.09.2016<br>2 Vorstellungen - <span style=\"color:#ffcc11;\">1x Schuldig</span><br><br>Gesamtstimmen<br>105 Freispruch - 101 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#ffcc11;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "yellow"
+    ], 
+    [
+        [
+            34.7436, 
+            135.356
+        ], 
+        "Hyogo Performing Arts Center", 
+        "<h6><a href=\"https://www1.gcenter-hyogo.jp/contents_parts/ConcertCalendar.aspx?kw=%E6%A9%8B%E7%88%AA&tb=1\" target=\"_blank\" class=\"llpopup\" style=\"color:#e63c00;\">Hyogo Performing Arts Center</a>&nbsp;</h6>Premiere am 20.08.2016<br>2 Vorstellungen - <span style=\"color:#e63c00;\">2x Schuldig</span><br><br>Gesamtstimmen<br>287 Freispruch - 406 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#e63c00;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "red"
+    ], 
+    [
+        [
+            35.6887647, 
+            139.7622392
+        ], 
+        "Nikkei Hall, Tokyo", 
+        "<h6><a href=\"http://mystery.co.jp/special/terror\" target=\"_blank\" class=\"llpopup\" style=\"color:#e63c00;\">Nikkei Hall, Tokyo</a>&nbsp;</h6>Premiere am 13.08.2016<br>2 Vorstellungen - <span style=\"color:#e63c00;\">2x Schuldig</span><br><br>Gesamtstimmen<br>282 Freispruch - 552 Schuldig<br><p><a href=\"#\" class=\"btn btn-default btn-xs\" onclick=\"javascript:setWorld();return false;\" style=\"font-size:1.1em;letter-spacing:0.15em;color:#e63c00;\"><span class=\"glyphicon glyphicon-zoom-out\"></span> &nbsp;ZOOM OUT</a></p>", 
+        "red"
+    ]
+]
+
