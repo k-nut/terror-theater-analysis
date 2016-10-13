@@ -63,5 +63,5 @@ some linear regression plots were drawn with seaborn and the mean `ratio_free` w
 ### Conclusion
 There do not seem to be any exciting correlations unfortunately. 😐
 
-If you find any [Let me know on twitter](https://twitter.com/notknut) or open an issue here.
+If you find any, [let me know on twitter](https://twitter.com/notknut) or open an issue here.
 
