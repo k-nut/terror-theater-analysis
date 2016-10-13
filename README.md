@@ -1,6 +1,7 @@
 # Terror.theater data analysis ✈︎ 📈
  
 An analysis from the particpatory theater play "Terror" where the audience takes a vote at the end.
+
 Data is taken from the offical website [terror.theater](http://terror.theater/)
 
 ## Approach
@@ -61,4 +62,5 @@ some linear regression plots were drawn with seaborn and the mean `ratio_free` w
 
 ### Conclusion
 There do not seem to be any exciting correlations unfortunately. 😐
+
 If you find any [https://twitter.com/notknut](let me know on twitter) or open an issue here.
