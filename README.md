@@ -56,7 +56,7 @@ some linear regression plots were drawn with seaborn and the mean `ratio_free` w
 ![Plot of the linear regression by population](/population.png?raw=true)
 
 #### By population (only cities with fewer then 1 Million inhabitants)
-![Plot of the linear regression by population (small cities)](/small_cities_population.png?raw=true)
+![Plot of the linear regression by population (small cities)](/population_small_cities.png?raw=true)
 
 
 ### Conclusion
